@@ -1,3 +1,4 @@
+#Crear una función que invierta el orden de los elementos en una lista dada.
 def invertir_lista(lista):
     lista.reverse()
     return lista

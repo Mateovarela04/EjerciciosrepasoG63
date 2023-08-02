@@ -1,3 +1,5 @@
+#Escribir un programa que encuentre el número más grande y el más pequeño en una lista dada.
+
 def encontrar_mayor_y_menor(lista):
     numero_mas_grande = max(lista)
     numero_mas_pequeno = min(lista)

@@ -2,7 +2,7 @@
 
 nombre= str(input("Ingresa tu nombre: "))
 
-edad= int(input("Ingresa tu edad: "))
+edad= int(input("Ingresa tu edad:  "))
 
 print("Tu nombre es", nombre, "Tienes",edad, "años." )
 
